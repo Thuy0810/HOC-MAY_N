@@ -1,9 +1,9 @@
 Experiment,Model,Dataset,Kendall,MSE,MSE_original_bug_scale
-Experiment 1 - without SMOTEND,CNN,Train,0.3025,0.2488,2.9702
-Experiment 1 - without SMOTEND,CNN,Test,0.2195,0.2617,2.3035
-Experiment 1 - without SMOTEND,MLP,Train,0.3295,0.2389,2.7403
-Experiment 1 - without SMOTEND,MLP,Test,0.2125,0.2616,2.2762
-Experiment 2 - with SMOTEND,CNN,Train,0.2468,0.2689,3.1713
-Experiment 2 - with SMOTEND,CNN,Test,0.186,0.2684,2.3946
-Experiment 2 - with SMOTEND,MLP,Train,0.3376,0.234,2.5204
-Experiment 2 - with SMOTEND,MLP,Test,0.2198,0.2628,2.2109
+Experiment 1 - without SMOTEND,CNN,Train,0.2823,0.2481,2.7806
+Experiment 1 - without SMOTEND,CNN,Test,0.2337,0.2754,3.0048
+Experiment 1 - without SMOTEND,MLP,Train,0.2975,0.2454,2.7592
+Experiment 1 - without SMOTEND,MLP,Test,0.2131,0.2789,2.9675
+Experiment 2 - with SMOTEND,CNN,Train,0.284,0.2508,2.8986
+Experiment 2 - with SMOTEND,CNN,Test,0.2311,0.2766,3.0564
+Experiment 2 - with SMOTEND,MLP,Train,0.261,0.2537,2.8021
+Experiment 2 - with SMOTEND,MLP,Test,0.1898,0.2856,3.0227
