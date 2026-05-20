@@ -1,0 +1,5 @@
+Model,Experiment 1 - without SMOTEND,Experiment 2 - with SMOTEND
+CNN,0.2001,0.2464
+DTR,0.1091,0.1928
+MLP,0.2364,0.2832
+SVR,0.2413,0.2876

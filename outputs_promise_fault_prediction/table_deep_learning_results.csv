@@ -1,0 +1,9 @@
+Experiment,Model,Dataset,Kendall,MSE
+Experiment 1 - without SMOTEND,CNN,Train,0.391,0.2
+Experiment 1 - without SMOTEND,CNN,Test,0.315,0.231
+Experiment 1 - without SMOTEND,MLP,Train,0.493,0.171
+Experiment 1 - without SMOTEND,MLP,Test,0.254,0.286
+Experiment 2 - with SMOTEND,CNN,Train,0.383,0.202
+Experiment 2 - with SMOTEND,CNN,Test,0.31,0.234
+Experiment 2 - with SMOTEND,MLP,Train,0.495,0.186
+Experiment 2 - with SMOTEND,MLP,Test,0.291,0.287
