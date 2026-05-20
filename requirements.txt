@@ -1,0 +1,13 @@
+# Machine Learning & Deep Learning
+tensorflow
+scikit-learn
+scipy
+
+# Data Analysis & Visualization
+pandas
+numpy
+matplotlib
+seaborn
+
+# Interactive Environment
+ipykernel
